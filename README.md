@@ -1,5 +1,9 @@
 # Oroboros
 
+> **This repository is a copy.** The main Oroboros repo, with the nightly signal updates and the live site, is
+> **https://github.com/abdurahim-azami/oroboros** · live site: **https://abdurahim-azami.github.io/oroboros/**
+> Please open issues and pull requests there.
+
 **Your job, minus what AI absorbs, plus what you can grow into.**
 
 > Oroboros shows you which parts of your own job AI may eat, under slow and fast scenarios,
